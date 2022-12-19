@@ -7,8 +7,8 @@
 
 1.安装 pdfelement-pro_full5239.exe，语言选繁体中文
 
-2. 复制Crack里的破解文件到安装目录替换即可，破解完！
+2. 复制PDFelement.exe和PDFtoolbox.exe里的破解文件到安装目录替换即可，破解完！
 
-3.更改默认为简体中文，复制Languages到安装目录替换
+3.更改默认为简体中文，复制Languages.zip里面的文件到安装目录替换
 
 * 安装OCR组件离线安装包 pdfelement9-ocr64.exe
